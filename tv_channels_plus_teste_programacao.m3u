@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/marcosoliveiradsa/repositorio1/main/guide.xml"
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="https://i.ibb.co/82gV9vj/SPORTV.png" group-title="ESPORTES",SPORTV 3 HD¹
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://i.ibb.co/82gV9vj/SPORTV.png" group-title="ESPORTES",SPORTV 2 HD¹
